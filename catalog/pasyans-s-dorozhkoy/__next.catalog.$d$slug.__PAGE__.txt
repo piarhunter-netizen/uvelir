@@ -1,0 +1,40 @@
+1:"$Sreact.fragment"
+2:"/uvelir/_next/static/chunks/3z69ihdb2i_gu.js"
+3:I[2971,["$2"],"default"]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+6:"/uvelir/_next/static/chunks/307x46gigpzal.js"
+7:"/uvelir/_next/static/chunks/0h__k83ywrn2u.js"
+8:I[22016,["$2","$6","$7"],""]
+18:"ViewportBoundary"
+19:I[97367,["$2"],"$18"]
+1a:"MetadataBoundary"
+1b:I[97367,["$2"],"$1a"]
+1c:"$Sreact.suspense"
+1d:I[27201,["$2"],"IconMark"]
+:HL["/uvelir/_next/static/chunks/1_w_j5g4izwk4.css","style"]
+a:X
+d:X
+d:C
+10:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"container","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"name\":\"Пасьянс с дорожкой\",\"sku\":\"LD-202\",\"description\":\"Центральный бриллиант и дорожка мелких камней на плечах кольца. Свет играет и в центре, и по бокам.\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Лучший день\"},\"offers\":{\"@type\":\"AggregateOffer\",\"priceCurrency\":\"RUB\",\"lowPrice\":83500,\"availability\":\"https://schema.org/PreOrder\"}}"}}],"$L11","$L12","$L13"]}],["$L14","$L15"],"$L16"]}],"p":"$@17","v":null,"s":"$a"}}]]
+e:[["children",{"s":{"n":"slug","t":"d","k":"pasyans-s-dorozhkoy","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@f","v":"$d","s":"$a"},"c":"$Q10"}]]
+b:[["children",{"s":"catalog","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@c","v":"$d","s":"$a"},"c":"$Qe"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/uvelir/_next/static/chunks/1_w_j5g4izwk4.css","precedence":"next"}],["$","script","script-0",{"src":"/uvelir/_next/static/chunks/3z69ihdb2i_gu.js","async":true}]],["$","html",null,{"lang":"ru","className":"_7cCd-W_variable E2J3ha_variable","children":["$","body",null,{"children":[["$","div",null,{"className":"demo-bar","children":"Демо-версия для согласования. Цены, камни и тексты условные."}],["$","$L3",null,{}],["$","main",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"container footer-grid","children":[["$","div",null,{"className":"footer-brand","children":[["$","span",null,{"className":"logo-name","children":"Лучший день"}],["$","p",null,{"children":"Ювелирная мастерская. Изготавливаем украшения на заказ и подбираем бриллианты с сертификатами."}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Каталог"}],["$","ul",null,{"children":[["$","li","obruchalnye",{"children":["$","$L8",null,{"href":"/catalog/?cat=obruchalnye","children":"Обручальные кольца"}]}],["$","li","pomolvochnye",{"children":["$","$L8",null,{"href":"/catalog/?cat=pomolvochnye","children":"Помолвочные кольца"}]}],["$","li","s-kamnyami",{"children":["$","$L8",null,{"href":"/catalog/?cat=s-kamnyami","children":"Кольца с камнями"}]}],["$","li","sergi",{"children":["$","$L8",null,{"href":"/catalog/?cat=sergi","children":"Серьги"}]}],["$","li","podveski",{"children":["$","$L8",null,{"href":"/catalog/?cat=podveski","children":"Подвески"}]}],["$","li","braslety",{"children":["$","$L8",null,{"href":"/catalog/?cat=braslety","children":"Браслеты"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Сервис"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L8",null,{"href":"/diamonds/","children":"Подбор бриллиантов"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/custom/","children":"Изготовление по эскизу"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/size/","children":"Как узнать размер"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/#service","children":"Гарантия и уход"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"children":"Салон"}],["$","ul",null,{"className":"plain","children":[["$","li",null,{"children":"Адрес салона"}],["$","li",null,{"children":"+7 (000) 000-00-00"}],["$","li",null,{"children":"Ежедневно 10:00–20:00, по записи"}]]}]]}]]}],["$","div",null,{"className":"container footer-legal","children":[["$","span",null,{"children":"© Лучший день. Демо-версия."}],["$","span",null,{"children":"Политика обработки персональных данных · Оферта"}]]}]]}]]}]}]]}],"p":"$@9","v":null,"s":"$a"},"c":"$Qb"},"h":{"r":["$","$1","h",{"children":[null,["$","$L19",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Пасьянс с дорожкой LD-202 — Лучший день"}],["$","meta","1",{"name":"description","content":"Центральный бриллиант и дорожка мелких камней на плечах кольца. Свет играет и в центре, и по бокам."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/uvelir/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L1d","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1e","v":null,"s":"$a"}},"a":"$@1f","u":"$@20","b":"hO-aTkEhYk6iIx0fQVPLp"}
+21:I[95089,["$2","$6","$7"],"default"]
+22:I[97367,["$2"],"OutletBoundary"]
+11:["$","nav",null,{"className":"crumbs","aria-label":"Хлебные крошки","children":[["$","$L8",null,{"href":"/","children":"Главная"}],["$","span",null,{"children":"/"}],["$","$L8",null,{"href":"/catalog/","children":"Каталог"}],["$","span",null,{"children":"/"}],["$","$L8",null,{"href":"/catalog/?cat=pomolvochnye","children":"Помолвочные кольца"}],["$","span",null,{"children":"/"}],["$","span",null,{"children":"Пасьянс с дорожкой"}]]}]
+12:["$","div",null,{"style":{"height":20}}]
+13:["$","$1c",null,{"fallback":["$","div",null,{"className":"empty","children":"Загружаем модель…"}],"children":["$","$L21",null,{"slug":"pasyans-s-dorozhkoy"}]}]
+14:["$","script","script-0",{"src":"/uvelir/_next/static/chunks/307x46gigpzal.js","async":true}]
+15:["$","script","script-1",{"src":"/uvelir/_next/static/chunks/0h__k83ywrn2u.js","async":true}]
+16:["$","$L22",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@23"}]}]
+a:300
+23:null
+20:true
+a:C
+1f:0
+f:"$undefined"
+c:"$undefined"
+9:"$undefined"
+1e:"$undefined"
+17:"$undefined"
